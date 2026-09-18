@@ -3,7 +3,7 @@
 ## 1. Candidate Information
 - **Name:** Aditya Mishra
 - **Roll No.:** 2026201014
-- **GitHub Repository:** 
+- **GitHub Repository:** https://github.com/git-adityamishra/notes-app-SSD-LAB
 
 ## 2. Setup & Execution Commands
 ```bash
